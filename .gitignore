@@ -16,7 +16,6 @@
 *.jar
 *.war
 *.ear
-*.zip
 *.tar.gz
 *.rar
 
@@ -26,3 +25,7 @@ hs_err_pid*
 .gitignore
 .idea/
 Databases-Frameworks-Hibernate-SpringData-2018-MAR.iml
+out/production/Databases-Frameworks-Hibernate-SpringData-2018-MAR/T02_Basics/01. DB-Advanced-Java-Basics-Exercises.docx
+out/production/Databases-Frameworks-Hibernate-SpringData-2018-MAR/T03_OOPOverview/02. DB-Advanced-Java-OOP-Overview-Exercises.docx
+out/production/Databases-Frameworks-Hibernate-SpringData-2018-MAR/T04_Fundamentals/03. DB-Advanced-Java-Fundamentals-Exercises.docx
+out/production/Databases-Frameworks-Hibernate-SpringData-2018-MAR/T05_OOPPrinciples/04. DB-Advanced-OOP-Principles-Exercises.docx
